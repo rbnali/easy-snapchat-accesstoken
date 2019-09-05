@@ -10,6 +10,6 @@ You will need to create a json file called `snapchat_credentials.json` with your
 	"redirect_url": "YOUR_REDIRECT_URL"
 }
 ```
-To get those credentials, make a request by filling the following form: https://developers.snapchat.com/apply/
+Make a request by filling the following form To get your credentials: https://developers.snapchat.com/apply/ This step may take some time.
 
-Documentation on the Snapchat API can be found here: https://developers.snapchat.com/api/docs/
+The documentations on the Snapchat API can be found here: https://developers.snapchat.com/api/docs/

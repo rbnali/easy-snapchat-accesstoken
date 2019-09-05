@@ -1,7 +1,7 @@
 # easy-snapchat-accesstoken
 Get your Snapchat API access token easily
 
-You will need to create a json file called `snapchat_credentials.json` with your Snapchat API client ID, secret and redirect URL in the same folder as `get_snapchat_access.py`.
+You will need to create a json file called `snapchat_credentials.json` with your Snapchat API client ID, secret and redirect URL in the same folder as `get_snapchat_access.ipynb`.
 
 ```
 {

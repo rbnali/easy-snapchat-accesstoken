@@ -7,7 +7,7 @@ You will need to create a json file called `snapchat_credentials.json` with your
 {
 	"client_id":"YOUR_CLIENT_ID",
 	"client_secret": "YOUR_CLIENT_SECRET",
-	"redirect_url": "YOUR_REDIRECT_URL",
+	"redirect_url": "YOUR_REDIRECT_URL"
 }
 ```
 To get those credentials, make a request by filling the following form: https://developers.snapchat.com/apply/
